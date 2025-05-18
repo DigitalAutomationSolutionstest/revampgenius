@@ -1,0 +1,4 @@
+Analisi sito per: {{ url }}
+
+Risultato:
+{{ report }}

@@ -1,0 +1,8 @@
+Ciao,
+
+ti scriviamo dopo aver analizzato il tuo sito {{ url }}.
+
+Ecco cosa abbiamo trovato:
+{{ report }}
+
+Contattaci per una consulenza gratuita!
